@@ -3,4 +3,8 @@ name: Cesar Encryption
 slug: cesar-encryption
 description: Code to encrypt using cesar encryption
 functions:
-  {}
+  cesar-encryption:
+    language: node
+    name: cesarEncryption
+    description: First code
+    version: 1.0.0
